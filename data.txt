@@ -1,0 +1,9 @@
+Swedish_Auto_Insurance_Dataset  http://t.cn/RfHWAbI
+Wine_Quality_Dataset            http://t.cn/RfaFfq8
+Sonar_Dataset                   http://t.cn/Rf8GrP7
+Banknote_Dataset                http://t.cn/Rf8GdQo
+Iris_Flowers_Dataset            http://t.cn/Rf8GeUq
+Abalone_Dataset                 http://t.cn/Rf8GDdu
+Ionosphere_Dataset              http://t.cn/Rf8GFY4
+Wheat_Seeds_Dataset             http://t.cn/RfHHbzw
+Boston_House_Price_Dataset      http://t.cn/RfHTAgY
